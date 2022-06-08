@@ -2,8 +2,9 @@
 
 ![cover](./img/coverimg.jpg)
 
-# 
+# Game Plan
 
+Our main plan is to collect high-quality learning materials in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for starting this repo. You can go and check for [GLL website](https://golearningland.com/)
 
 
 # Selected Golang Book List
