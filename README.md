@@ -6,7 +6,17 @@
 
 Our main plan is to collect high-quality learning materials in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for staring this repo. You can go and check for [GLL website](https://golearningland.com/)
 
+# Folder Structures and Indexes
 
+* [Data Structures and Algorithms](./DataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
+* [Basics](./GolangBasics/) => This folder contains basics tutorial for Golang
+* [Advanced](./GolangAdvanced/) =>This folder contains Advanced tutorial for Golang
+* [Clean Code](./GolangCleanCode/) => This folder contains Clean Code tips and tricks for Golang
+* [Concurrency](./GolangConcurrency/) => This folder contains Concurrency tutorial for Golang
+* [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
+* [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
+  
+  
 # Selected Golang Book List
 <details>
   <summary>Show All Book List</summary>
