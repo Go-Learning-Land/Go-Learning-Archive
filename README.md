@@ -6,9 +6,9 @@
 
 
 
-# A collapsible section with markdown
+# Selected Golang Book List
 <details>
-  <summary>Selected Golang Book List</summary>
+  <summary>Show All Book List</summary>
   
 # Books
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
