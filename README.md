@@ -16,7 +16,7 @@ Our main plan is to collect high-quality learning materials in the same place in
 * [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
 * [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
   
-  
+### Doesn't seem enough? Then choose an item from our issues and start helping!!
 # Selected Golang Book List
 <details>
   <summary>Show All Book List</summary>
