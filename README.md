@@ -6,6 +6,16 @@
 
 Our main plan is to collect high-quality learning materials in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for staring this repo. You can go and check for [GLL website](https://golearningland.com/)
 
+### How to mint GLL NFTs?
+
+<div align="center"><p><img src="https://github.com/Go-Learning-Land/.github/blob/main/img/claim.png"  /></p></center></div>
+
+1. Go to [Github](https://github.com/signup?source=login) and create an account.
+2. Go to [Go Learning Archive](https://github.com/Go-Learning-Land/Go-Learning-Archive) and star the repo. :stars:
+3. Go to [GLL website](https://golearningland.com/) and fill out the [github username](https://stackoverflow.com/questions/19077138/how-to-find-my-github-username-so-that-i-can-be-found-via-the-url#:~:text=The%20one%20displayed%20in%20the,URLs%20of%20your%20GitHub%20repositories.) and [metamask address.](https://metamask.io/faqs/) 
+4. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
+
+
 # Folder Structures and Indexes
 
 * [Data Structures and Algorithms](./DataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
