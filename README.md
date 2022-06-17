@@ -28,6 +28,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
   
 ### Doesn't seem enough? Then create issues and start helping!!
 # Selected Golang Book List
+**[Taken from](https://github.com/dariubs/GoBooks)**
 <details>
   <summary>Show All Book List</summary>
   
