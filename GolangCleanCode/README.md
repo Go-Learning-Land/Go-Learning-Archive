@@ -1,5 +1,5 @@
 # [Clean Go Code](https://github.com/Pungyeon/clean-go-article/blob/master/README.md)
-
+[credits](https://github.com/Pungyeon/clean-go-article/blob/master/README.md)
 ## Preface: Why Write Clean Code?
 
 This document is a reference for the Go community that aims to help developers write cleaner code. Whether you're working on a personal project or as part of a larger team, writing clean code is an important skill to have. Establishing good paradigms and consistent, accessible standards for writing clean code can help prevent developers from wasting many meaningless hours on trying to understand their own (or others') work.
