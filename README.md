@@ -30,7 +30,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 # Selected Golang Book List
 **[Taken from here](https://github.com/dariubs/GoBooks)**
 <details>
-  <summary>Show All Book List</summary>
+  <summary>Click Here for Book List</summary>
   
 # Books
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
