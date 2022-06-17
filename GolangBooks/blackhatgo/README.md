@@ -1,5 +1,5 @@
 # BLACKHAT GOLANG
-Code samples for the No Starch Press Black Hat Go
+Code samples for the No Starch Press Black Hat Go [credits](https://github.com/blackhat-go/bhg)
 
 1. [Go Fundamentals](https://github.com/ErdemOzgen/Go-Learning-Archive/tree/main/GolangBasics)
 2. [TCP,Scanners and Proxies](./ch-2)
