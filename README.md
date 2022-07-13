@@ -18,7 +18,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 # Folder Structures and Indexes
 
-* [Training](./GolangTraing/) => This folder contains all materials ordered ways for learning golang.
+* [Training](./GolangTraing/) => This folder contains all materials ordered ways for learning golang.(In Progress)
 * [Data Structures and Algorithms](./GolangDataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
 * [Basics](./GolangBasics/) => This folder contains basics tutorial for Golang
 * [Advanced](./GolangAdvanced/) =>This folder contains Advanced tutorial for Golang
@@ -27,7 +27,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 * [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
 * [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
 
-# Training Plan
+# Training Plan (In Progress)
 
 * [Basics](./README.md) 
 	* [Variables](./README.md)
