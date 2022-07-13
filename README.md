@@ -75,7 +75,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
     * [io.TeeReader](./README.md)
     * [io.MultiWriter](./README.md)
 
-* [CLI](./README.md) ([Etkinlik Kaydi](https://www.youtube.com/watch?v=k6JenRL7t2c))
+* [CLI](./README.md)
 	* [Flags](./README.md)
 	* [Environments](./README.md)
     * [Bytes](./README.md)
@@ -89,7 +89,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
     * [Tracing](./README.md)
     * [Profiling](./README.md)
 
-* [Algorithms]
+* [Algorithms](./README.md)
 	* [Sorting](#)
 	* [LinkedList](#)
     * [Stack](#)
@@ -99,24 +99,24 @@ Our main plan is to collect **high-quality learning materials** in the same plac
     * [Dynamic Programming](#)
     * [Many More will be added in a future release](#)
 
-* [Database]
+* [Database](./README.md)
 	* [Sql Queries](#)
 	* [Transactions](#)
     * [CRUD Operations](#)
     * [Couchbase Ops](#)
   * [Examples with different DBs](#)
 
-* [External Communication]
+* [External Communication](./README.md)
 	* [Redis](#)
 	* [Rabbitmq](#)
     * [Kafka](#)
 
-* [Build & Distribution]
+* [Build & Distribution](./README.md)
 	* [Docker Build](#)
 	* [Go Releaser](#)
     * [Github Actions](#)
 
-* [Architecture - Overview]
+* [Architecture - Overview](./README.md)
 	* [Abstraction / Decoupling](#)
 	* [Inversion Of Control](#)
     * [Dependency Injection](#)
@@ -127,7 +127,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
     * [Event Sourcing](#)
     * [Clean Code](#)
 
-* [Kubernetes Extensibility]
+* [Kubernetes Extensibility](./README.md)
 	* [Accessing Kubernetes](#)
 	* [Admission Webhook Concept](#)
     * [Operators](#)
