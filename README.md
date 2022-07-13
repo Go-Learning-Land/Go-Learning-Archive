@@ -83,6 +83,10 @@ Our main plan is to collect **high-quality learning materials** in the same plac
     * [Parameters](./README.md)
     * [Commands](./README.md)
 
+* [GUI](./README.md)
+  * [Wails](https://wails.app/)
+  * [GUI Examples](./README.md)  
+
 * [Test & Benchmarks](./README.md)
 	* [Unit Test](./README.md)
 	* [Benchmark Test](./README.md)
