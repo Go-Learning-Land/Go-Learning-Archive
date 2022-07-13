@@ -19,4 +19,4 @@ merging, insertion, key changes, and deleting are performed on heaps. Heaps are 
 the container/heap package in Go. 
 * [Heaps](./heap.go)
 * [Heaps container/heap](https://pkg.go.dev/container/heap)
-* [Heaps](https://cs.opensource.google/go/go/+/refs/tags/go1.18.4:src/container/heap/heap.go;drc=2580d0e08d5e9f979b943758d3c49877fb2324cb;l=32)
+* [Heaps Source Code](https://github.com/cs.opensource.google/go/go/+/refs/tags/go1.18.4:src/container/heap/heap.go;drc=2580d0e08d5e9f979b943758d3c49877fb2324cb;l=32)
