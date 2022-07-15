@@ -52,3 +52,9 @@ the container/heap package in Go.
 
 * [Bridge Pattern](https://refactoring.guru/design-patterns/bridge)
 * [Bridge Pattern Source Code Example](https://refactoring.guru/design-patterns/bridge/go/example)
+
+## Composite Pattern
+
+* [Composite Pattern](https://refactoring.guru/design-patterns/composite)
+* [Composite Pattern Source Code Example](https://refactoring.guru/design-patterns/composite/go/example)
+
