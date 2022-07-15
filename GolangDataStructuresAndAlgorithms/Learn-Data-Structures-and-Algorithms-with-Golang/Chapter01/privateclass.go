@@ -2,6 +2,7 @@
 // in Go Data Structures and algorithms book
 package main
 
+// Take a look at https://stackoverflow.com/a/69098785/6946237
 // importing fmt and encoding/json pacakges
 import (
 	"encoding/json"

@@ -67,5 +67,39 @@ the container/heap package in Go.
 * [Decarator Pattern Source Code Example](https://refactoring.guru/design-patterns/decorator/go/example)
 * [Book Source Code](./decorator.go)
 
-## 
+## Decorator Pattern
+
+* [Decorator Pattern](https://refactoring.guru/design-patterns/decorator)
+* [Decorator Pattern Source Code Example](https://refactoring.guru/design-patterns/decorator/go/example)
+* [Book Source Code](./decorator.go)
+
+
+## Facade Pattern
+
+* [Facade Pattern](https://refactoring.guru/design-patterns/facade)
+* [Facade Pattern Source Code Example](https://refactoring.guru/design-patterns/facade/go/example)
+* [Book Source Code](./facade.go)
+
+## Flyweight Pattern
+
+* [Flyweight Pattern](https://refactoring.guru/design-patterns/)
+* [Flyweight Pattern Source Code Example](https://refactoring.guru/design-patterns/flyweight/go/example)
+* [Book Source Code](./flyweight.go)
+
+## Private Class Data
+
+```
+Account is a class with account details and a customer name. AccountDetails is the
+private attribute of Account , and CustomerName is the public attribute. JSON marshaling
+of Account has CustomerName as a public property. AccountDetails is the package
+property in Go (modeled as private class data):
+``` 
+[See in source code](./privatDataeclass.go)
+[Take a look at the](https://stackoverflow.com/a/69098785/6946237)
+
+## Proxy Pattern
+
+* [Proxy Pattern](https://refactoring.guru/design-patterns/proxy)
+* [Proxy Pattern Source Code Example](https://refactoring.guru/design-patterns/proxy/go/example)
+* [Book Source Code](./proxy.go)
 
