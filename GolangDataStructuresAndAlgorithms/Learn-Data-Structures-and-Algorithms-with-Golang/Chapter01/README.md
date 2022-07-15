@@ -47,3 +47,8 @@ the container/heap package in Go.
 
 * [Adapter Pattern Refactoring Guru](https://refactoring.guru/design-patterns/adapter)
 * [Adapter Pattern Source Code Example](https://refactoring.guru/design-patterns/adapter/go/example)
+
+## Bridge Pattern
+
+* [Bridge Pattern](https://refactoring.guru/design-patterns/bridge)
+* [Bridge Pattern Source Code Example](https://refactoring.guru/design-patterns/bridge/go/example)
