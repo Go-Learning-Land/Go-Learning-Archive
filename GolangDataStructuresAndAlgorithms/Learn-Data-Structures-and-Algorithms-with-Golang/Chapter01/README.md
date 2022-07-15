@@ -47,14 +47,25 @@ the container/heap package in Go.
 
 * [Adapter Pattern Refactoring Guru](https://refactoring.guru/design-patterns/adapter)
 * [Adapter Pattern Source Code Example](https://refactoring.guru/design-patterns/adapter/go/example)
+* [Book Source Code](./adapter.go)
 
 ## Bridge Pattern
 
 * [Bridge Pattern](https://refactoring.guru/design-patterns/bridge)
 * [Bridge Pattern Source Code Example](https://refactoring.guru/design-patterns/bridge/go/example)
+* [Book Source Code](./bridge.go)
 
 ## Composite Pattern
 
 * [Composite Pattern](https://refactoring.guru/design-patterns/composite)
 * [Composite Pattern Source Code Example](https://refactoring.guru/design-patterns/composite/go/example)
+* [Book Source Code](./composite.go)
+
+## Decarator Pattern
+
+* [Decarator Pattern](https://refactoring.guru/design-patterns/decorator)
+* [Decarator Pattern Source Code Example](https://refactoring.guru/design-patterns/decorator/go/example)
+* [Book Source Code](./decorator.go)
+
+## 
 
