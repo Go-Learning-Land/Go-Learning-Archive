@@ -4,7 +4,7 @@
 
 # Game Plan
 
-Our main plan is to collect **high-quality learning materials** in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for staring this repo. You can go and check for [GLL website](https://golearningland.com/)
+Our main plan is to collect **high-quality learning materials** in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for staring this repo. You can go and check for [GLL website](https://golearningland.com/). If you hate NFTs that is fine; we will give NFTs as a symbol of a community badge do not worry and do not hate us.
 
 ### How to mint GLL NFTs?
 
@@ -18,6 +18,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 # Folder Structures and Indexes
 
+* [Training](./GolangTraing/) => This folder contains all materials ordered ways for learning golang.(In Progress)
 * [Data Structures and Algorithms](./GolangDataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
 * [Basics](./GolangBasics/) => This folder contains basics tutorial for Golang
 * [Advanced](./GolangAdvanced/) =>This folder contains Advanced tutorial for Golang
@@ -25,7 +26,116 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 * [Concurrency](./GolangConcurrency/) => This folder contains Concurrency tutorial for Golang
 * [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
 * [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
-  
+
+# Training Plan (In Progress)
+
+* [Basics](./README.md) 
+	* [Variables](./README.md)
+	* [Array](./README.md)
+    * [Slices](./README.md)
+    * [Maps](./README.md)
+    * [Strings](./README.md)
+    * [Loops](./README.md)
+    * [Structs](./README.md)
+    * [Pointers](./README.md)
+    * [Functions](./README.md)
+    * [Errors](./README.md)
+    * [Interfaces](./README.md)
+    * [Modules](./README.md)
+
+* [Concurrency](./README.md)
+  * [Basics](./README.md)
+  * [In Depth](./README.md)
+	* [Go Routines](./README.md)
+	* [Channels](./README.md)
+    * [WaitGroups](#)
+    * [Mutex](./README.md)
+    * [SyncPool](#)
+    * [Dead Lock](./README.md)
+
+* [Garbage Collector](./README.md)
+	* [Basics](./README.md)
+	* [In Depth](./README.md)
+
+
+* [Http Package](./README.md) 
+	* [http](./README.md)
+	* [httputil](./README.md)
+    * [grpc](#)
+    * [Reverse Proxy](./README.md)
+    * [Restful Api](./README.md)
+    * [Web Frameworks (echo, gin, fasthttp)](./README.md)
+
+* [I/O](./README.md)
+	* [File ops.](./README.md)
+	* [Network ops.](./README.md)
+    * [Bytes](./README.md)
+    * [io.Reader](./README.md)
+    * [io.Writer](./README.md)
+    * [io.TeeReader](./README.md)
+    * [io.MultiWriter](./README.md)
+
+* [CLI](./README.md)
+	* [Flags](./README.md)
+	* [Environments](./README.md)
+    * [Bytes](./README.md)
+    * [Variables](./README.md)
+    * [Parameters](./README.md)
+    * [Commands](./README.md)
+
+* [GUI](./README.md)
+  * [Wails](https://wails.app/)
+  * [GUI Examples](./README.md)  
+
+* [Test & Benchmarks](./README.md)
+	* [Unit Test](./README.md)
+	* [Benchmark Test](./README.md)
+    * [Tracing](./README.md)
+    * [Profiling](./README.md)
+
+* [Algorithms](./README.md)
+	* [Sorting](#)
+	* [LinkedList](#)
+    * [Stack](#)
+    * [Queue](#)
+    * [Tree](#)
+    * [Graphs](#)
+    * [Dynamic Programming](#)
+    * [Many More will be added in a future release](#)
+
+* [Database](./README.md)
+	* [Sql Queries](#)
+	* [Transactions](#)
+    * [CRUD Operations](#)
+    * [Couchbase Ops](#)
+  * [Examples with different DBs](#)
+
+* [External Communication](./README.md)
+	* [Redis](#)
+	* [Rabbitmq](#)
+    * [Kafka](#)
+
+* [Build & Distribution](./README.md)
+	* [Docker Build](#)
+	* [Go Releaser](#)
+    * [Github Actions](#)
+
+* [Architecture - Overview](./README.md)
+	* [Abstraction / Decoupling](#)
+	* [Inversion Of Control](#)
+    * [Dependency Injection](#)
+    * [Composition Root](#)
+    * [Hexagonal Architecture](#)
+    * [DDD](#)
+    * [CQRS](#)
+    * [Event Sourcing](#)
+    * [Clean Code](#)
+
+* [Kubernetes Extensibility](./README.md)
+	* [Accessing Kubernetes](#)
+	* [Admission Webhook Concept](#)
+    * [Operators](#)
+
 ### Doesn't seem enough? Then create issues and start helping!!
 # Selected Golang Book List
 **[Taken from here](https://github.com/dariubs/GoBooks)**
