@@ -103,3 +103,5 @@ property in Go (modeled as private class data):
 * [Proxy Pattern Source Code Example](https://refactoring.guru/design-patterns/proxy/go/example)
 * [Book Source Code](./proxy.go)
 
+
+
