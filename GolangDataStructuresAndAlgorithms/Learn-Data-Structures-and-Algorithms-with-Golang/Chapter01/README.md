@@ -107,4 +107,6 @@ property in Go (modeled as private class data):
 
 * [Flow Chart](https://en.wikipedia.org/wiki/Flowchart)
 * [Pseudo Code](https://en.wikipedia.org/wiki/Pseudocode)
-  
+* [Big O notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+
+![Big O Notation](./img/bigo.jpeg)
