@@ -29,7 +29,7 @@ func main() {
 	}
 
 	for _, value = range arr {
-
+		// The _ blank identifier is used if the index is ignored
 		fmt.Println("blank range", value)
 
 	}
