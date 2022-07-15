@@ -24,6 +24,7 @@ func main() {
 	for i, value = range arr {
 
 		fmt.Println(" range ", value)
+		// Go Compiler accully warn us about "you dont use variable i" but we declared it in line 15
 
 	}
 
