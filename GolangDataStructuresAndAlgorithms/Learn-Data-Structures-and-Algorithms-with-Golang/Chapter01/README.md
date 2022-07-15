@@ -39,3 +39,11 @@ the container/heap package in Go.
 * [Heaps](./heap.go)
 * [Heaps container/heap](https://pkg.go.dev/container/heap)
 * [Heaps Source Code](https://github.com/cs.opensource.google/go/go/+/refs/tags/go1.18.4:src/container/heap/heap.go;drc=2580d0e08d5e9f979b943758d3c49877fb2324cb;l=32)
+
+
+# Desing Patterns
+
+## Adapter Pattern
+
+* [Adapter Pattern Refactoring Guru](https://refactoring.guru/design-patterns/adapter)
+* [Adapter Pattern Source Code Example](https://refactoring.guru/design-patterns/adapter/go/example)
