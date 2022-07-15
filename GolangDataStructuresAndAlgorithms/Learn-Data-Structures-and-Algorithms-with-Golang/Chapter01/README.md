@@ -103,5 +103,8 @@ property in Go (modeled as private class data):
 * [Proxy Pattern Source Code Example](https://refactoring.guru/design-patterns/proxy/go/example)
 * [Book Source Code](./proxy.go)
 
+## Representation of Algorithms
 
-
+* [Flow Chart](https://en.wikipedia.org/wiki/Flowchart)
+* [Pseudo Code](https://en.wikipedia.org/wiki/Pseudocode)
+  
