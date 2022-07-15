@@ -13,6 +13,7 @@ func main() {
 	var arr = [5]int{1, 2, 4, 5, 6}
 
 	var i int
+	// You can use ==> for i:= 0; i < len(arr); i++ // Therefore you dont need to use ==> var i int
 	for i = 0; i < len(arr); i++ {
 
 		fmt.Println("printing elements ", arr[i])
