@@ -53,6 +53,8 @@ func insertTreeNode(rootNode *TreeNode, newTreeNode *TreeNode) {
 	}
 }
 
+//https://www.geeksforgeeks.org/methods-with-same-name-in-golang/
+
 // InOrderTraverseTree method
 func (tree *BinarySearchTree) InOrderTraverseTree(function func(int)) {
 	tree.lock.RLock()
@@ -136,6 +138,8 @@ func (tree *BinarySearchTree) MaxNode() *int {
 		treeNode = treeNode.rightNode
 	}
 }
+
+//https://www.geeksforgeeks.org/methods-with-same-name-in-golang/
 
 // SearchNode method
 func (tree *BinarySearchTree) SearchNode(key int) bool {
