@@ -69,6 +69,8 @@ type Column struct {
 ### [Circular Linked List](./circular_list.go)
 
 [Golang container/ring data type source code](https://cs.opensource.google/go/go/+/refs/tags/go1.18.4:src/container/ring/ring.go;drc=2580d0e08d5e9f979b943758d3c49877fb2324cb;l=14)
-```
+
 
 ### Hash Functions
+
+* The Common two ways to implement a hash function in Go: with [crc32](https://docs.aws.amazon.com/redshift/latest/dg/crc32-function.html) or [sha256](https://www.n-able.com/blog/sha-256-encryption#:~:text=SHA%2D256%20is%20a%20patented,as%20long%20as%20when%20unencrypted.).
