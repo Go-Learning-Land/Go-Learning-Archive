@@ -138,11 +138,13 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 ### Doesn't seem enough? Then create issues and start helping!!
 # Selected Golang Book List
-**[Taken from here](https://github.com/dariubs/GoBooks)**
+
 <details>
   <summary>Click Here for Book List</summary>
   
 # Books
+
+**[Credits](https://github.com/dariubs/GoBooks)**
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
 <img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>

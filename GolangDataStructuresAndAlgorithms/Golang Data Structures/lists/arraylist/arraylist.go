@@ -32,6 +32,7 @@ const (
 )
 
 // New instantiates a new list and adds the passed values, if any, to the list
+// Take a look at the this: https://stackoverflow.com/a/23669857/6946237
 func New(values ...interface{}) *List {
 	list := &List{}
 	if len(values) > 0 {
