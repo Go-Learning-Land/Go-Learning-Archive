@@ -18,7 +18,7 @@ type LinkedList struct {
 	headNode *Node
 }
 
-//AddToHead method of LinkedList class
+//AddToHead method of LinkedList class,  AddToHead method adds the node to the start of the linked list.
 func (linkedList *LinkedList) AddToHead(property int) {
 	var node = &Node{}
 	node.property = property
