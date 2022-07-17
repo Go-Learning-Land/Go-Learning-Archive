@@ -69,6 +69,7 @@ func inOrderTraverseTree(treeNode *TreeNode, function func(int)) {
 	}
 }
 
+//http://www.code2succeed.com/golang-preorder-tree-traversal/
 // PreOrderTraverse method
 func (tree *BinarySearchTree) PreOrderTraverseTree(function func(int)) {
 	tree.lock.Lock()
