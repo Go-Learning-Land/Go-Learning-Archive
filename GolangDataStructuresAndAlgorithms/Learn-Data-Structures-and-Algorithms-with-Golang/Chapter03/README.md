@@ -43,3 +43,10 @@ type Node struct {
 
 ### [Sets](./set.go)
 
+### [Tuples](./tuples.go)
+
+### [Queue](./queue.go)
+* [Synchronized queue](./sync_queue.go)
+
+
+### [Stacks](./stack.go)
