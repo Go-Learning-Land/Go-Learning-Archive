@@ -2,6 +2,7 @@
 
 * [Learn Data Structures and Algorithms with Golang book](./Learn-Data-Structures-and-Algorithms-with-Golang) [credit](https://github.com/PacktPublishing/Learn-Data-Structures-and-Algorithms-with-Golang)
 
+* [Golang Data Structures ](./Golang%20Data%20Structures/) [credit](https://github.com/emirpasic/gods)
 # Table of Contents
 
 * [Chapter 1](./Learn-Data-Structures-and-Algorithms-with-Golang/Chapter01/README.md)
