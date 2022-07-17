@@ -19,4 +19,12 @@ go get -u github.com/go-sql-driver/mysql
 
 ### Slice
 
-* []
+* [Go Slice : Usage and Internals](https://go.dev/blog/slices-intro)
+  
+```
+Slices are passed by referring to functions. Big slices can be passed to functions without
+impacting performance. Passing a slice as a reference to a function is demonstrated in the
+code as follows
+```
+* [Slice Source code](./slice.go)
+* [2D Slice Source code](./twodslices.go)
