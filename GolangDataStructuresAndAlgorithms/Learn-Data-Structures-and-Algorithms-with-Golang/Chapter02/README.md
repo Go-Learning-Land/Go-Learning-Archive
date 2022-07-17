@@ -28,3 +28,16 @@ code as follows
 ```
 * [Slice Source code](./slice.go)
 * [2D Slice Source code](./twodslices.go)
+
+#### [Golang Make function](https://linuxhint.com/golang-make-function/)
+
+### Maps and Database Operations
+
+* [Map Source Code](./maps.go)
+* [Database Operations](./database_operations.go)
+
+### CRUD Webforms
+
+* [Webforms Source Code](./webforms.go)
+* [Webforms Templates](./templates/)
+* 
