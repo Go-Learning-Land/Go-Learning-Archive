@@ -37,3 +37,7 @@ type BinarySearchTree struct {
 ```
 [what is sync.RWMutex](https://medium.com/golangspec/sync-rwmutex-ca6c6c3208a0)
 [Source Code Binary tree](./binary_search_tree.go)
+
+### AVL Tree
+
+* [Source Code AVL Tree](./avl_tree.go)
