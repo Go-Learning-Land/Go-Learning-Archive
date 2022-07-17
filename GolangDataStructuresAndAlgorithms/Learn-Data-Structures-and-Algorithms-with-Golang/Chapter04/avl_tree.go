@@ -9,6 +9,7 @@ import (
 )
 
 // KeyValue type
+// Also take look at the article: https://www.digitalocean.com/community/tutorials/how-to-use-interfaces-in-go
 type KeyValue interface {
 	LessThan(KeyValue) bool
 	EqualTo(KeyValue) bool
@@ -142,6 +143,7 @@ func removeBalance(rootNode *TreeNode, nodeValue int) (*TreeNode, bool) {
 	node.BalanceValue = balance
 	return singleRotation(rootNode, nodeValue), true
 }
+
 // removeRNode method
 func removeRNode(rootNode *TreeNode, key KeyValue) (*TreeNode, bool) {
 	if rootNode == nil {
