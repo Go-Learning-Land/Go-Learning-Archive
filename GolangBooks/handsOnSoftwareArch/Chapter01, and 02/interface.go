@@ -105,10 +105,9 @@ func main() {
 
 	makeThemSing(myZoo)
 
-
 	var aAnimal Animal
 
-	aAnimal =  &Lion{
+	aAnimal = &Lion{
 		"Leo",
 		10,
 		LatLong{10.40, 11.5},
