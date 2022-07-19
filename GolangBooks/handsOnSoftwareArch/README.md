@@ -52,15 +52,13 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781788622592_ColorImages.pdf).
 
 ### Related products
-* Hands-On Serverless Applications with Go [[Packt]](https://www.packtpub.com/application-development/hands-serverless-applications-go?utm_source=github&utm_medium=repository&utm_campaign=9781789134612) [[Amazon]](https://www.amazon.com/dp/B07DT9DD4V)
 
-* Mastering Go [[Packt]](https://www.packtpub.com/networking-and-servers/mastering-go?utm_source=github&utm_medium=repository&utm_campaign=9781788626545) [[Amazon]](https://www.amazon.com/dp/1788626540)
+* [Mastering Go](../masteringGo/README.md) 
 
-## Get to Know the Author
+## Get to Know the Author of Book
 **Jyotiswarup Raiturkar**
 has architected products ranging from high-volume e-commerce sites to core infrastructure products. Notable products include the Walmart Labs Ecommerce Fulfillment Platform, Intuit Mint, SellerApp, Goibibo, Microsoft Virtual Server, and ShiftPixy, to name a few. Nowadays, he codes in Golang, Python, and Java.
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
 
 
