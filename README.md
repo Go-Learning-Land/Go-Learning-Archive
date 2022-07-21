@@ -27,6 +27,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 * [Concurrency](./GolangConcurrency/) => This folder contains Concurrency tutorial for Golang
 * [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
 * [Code Layout](./GolangCodeLayout/) => This folder contains best practice for code layout
+* [Distributed System](./GolangDistributed/) => This folder contains Distributed tutorial for Golang
 * [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
 
 # Training Plan (In Progress)
