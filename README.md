@@ -29,6 +29,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 * [Code Layout](./GolangCodeLayout/) => This folder contains best practice for code layout
 * [Distributed System](./GolangDistributed/) => This folder contains Distributed tutorial for Golang
 * [Books](./GolangBooks/) => This folder contains Books summary and source code for Golang
+* [Security](./GolangSecurity/) => This folder contains Security tutorial materials for Golang
 
 # Training Plan (In Progress)
 
