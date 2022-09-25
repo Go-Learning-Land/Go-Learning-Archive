@@ -19,7 +19,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 # Folder Structures and Indexes
 
-* [Training](#training-plan) => This folder contains all materials ordered ways for learning golang.(In Progress)
+* [Training](#training-plan) => This folder contains all materials ordered ways for learning golang.(Always open for PRs)
 * [Data Structures and Algorithms](./GolangDataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
 * [Basics](./GolangBasics/) => This folder contains basics tutorial for Golang
 * [Advanced](./GolangAdvanced/) =>This folder contains Advanced tutorial for Golang
@@ -34,6 +34,9 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 # Training Plan
 
 ### Base boilplate is taken from [here](https://github.com/GoTurkiye/training)
+
+These listed items are essential for fully covered golang training. Use this listed items to see clearly whats is next in golang education.
+( Always open fir PRs)
 
 * Basics
 	* Variables
