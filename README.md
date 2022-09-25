@@ -36,7 +36,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 ### Base boilplate is taken from [here](https://github.com/GoTurkiye/training)
 
 These listed items are essential for fully covered golang training. Use this listed items to see clearly whats is next in golang education.
-( Always open fir PRs)
+( Always open for PRs)
 
 * Basics
 	* Variables
