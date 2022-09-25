@@ -35,112 +35,112 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 ### Base boilplate is taken from [here](https://github.com/GoTurkiye/training)
 
-* [Basics](./GolangTraining/basics/README.md) 
-	* [Variables](./GolangTraining/basics/variables)
-	* [Array](./GolangTraining/basics/array)
-    * [Slices](./GolangTraining/basics/slices)
-    * [Maps](./GolangTraining/basics/maps)
-    * [Strings](./GolangTraining/basics/strings)
-    * [Loops](./GolangTraining/basics/loops)
-    * [Structs](./GolangTraining/basics/structs)
-    * [Pointers](./GolangTraining/basics/pointers)
-    * [Functions](./GolangTraining/basics/functions)
-    * [Errors](./GolangTraining/basics/errors)
-    * [Interfaces](./GolangTraining/basics/interfaces)
-    * [Modules](./GolangTraining/basics/modules)
+* Basics
+	* Variables
+	* Array
+    * Slices
+    * Maps
+    * Strings
+    * Loops
+    * Structs
+    * Pointers
+    * Functions
+    * Errors
+    * Interfaces
+    * Modules
 
-* [Concurrency](./README.md)
-  * [Basics](./README.md)
-  * [In Depth](./README.md)
-	* [Go Routines](./README.md)
-	* [Channels](./README.md)
-    * [WaitGroups](#)
-    * [Mutex](./README.md)
-    * [SyncPool](#)
-    * [Dead Lock](./README.md)
+* Concurrency
+  * Basics
+  * In Depth
+	* Go Routines
+	* Channels
+    * WaitGroups
+    * Mutex
+    * SyncPool
+    * Dead Lock
 
-* [Garbage Collector](./README.md)
-	* [Basics](./README.md)
-	* [In Depth](./README.md)
+* Garbage Collector
+	* Basics
+	* In Depth
 
 
-* [Http Package](./README.md) 
-	* [http](./README.md)
-	* [httputil](./README.md)
-    * [grpc](#)
-    * [Reverse Proxy](./README.md)
-    * [Restful Api](./README.md)
-    * [Web Frameworks (echo, gin, fasthttp)](./README.md)
+* Http Package
+	* http
+	* httputil
+    * grpc
+    * Reverse Proxy
+    * Restful Api
+    * Web Frameworks (echo, gin, fasthttp)
 
-* [I/O](./README.md)
-	* [File ops.](./README.md)
-	* [Network ops.](./README.md)
-    * [Bytes](./README.md)
-    * [io.Reader](./README.md)
-    * [io.Writer](./README.md)
-    * [io.TeeReader](./README.md)
-    * [io.MultiWriter](./README.md)
+* I/O
+	* File ops.
+	* Network ops.
+    * Bytes
+    * io.Reader
+    * io.Writer
+    * io.TeeReader
+    * io.MultiWriter
 
-* [CLI](./README.md)
-	* [Flags](./README.md)
-	* [Environments](./README.md)
-    * [Bytes](./README.md)
-    * [Variables](./README.md)
-    * [Parameters](./README.md)
-    * [Commands](./README.md)
+* CLI
+	* Flags
+	* Environments
+    * Bytes
+    * Variables
+    * Parameters
+    * Commands
 
-* [GUI](./README.md)
+* GUI
   * [Wails](https://wails.app/)
-  * [GUI Examples](./README.md)  
+  * GUI Examples  
 
-* [Test & Benchmarks](./README.md)
-	* [Unit Test](./README.md)
-	* [Benchmark Test](./README.md)
-    * [Tracing](./README.md)
-    * [Profiling](./README.md)
+* Test & Benchmarks
+	* Unit Test
+	* Benchmark Test
+    * Tracing
+    * Profiling
 
-* [Algorithms](./README.md)
-	* [Sorting](#)
-	* [LinkedList](#)
-    * [Stack](#)
-    * [Queue](#)
-    * [Tree](#)
-    * [Graphs](#)
-    * [Dynamic Programming](#)
-    * [Many More will be added in a future release](#)
+* Algorithms
+	* Sorting
+	* LinkedList
+    * Stack
+    * Queue
+    * Tree
+    * Graphs
+    * Dynamic Programming
+    * Many More will be added in a future release
 
-* [Database](./README.md)
-	* [Sql Queries](#)
-	* [Transactions](#)
-    * [CRUD Operations](#)
-    * [Couchbase Ops](#)
-  * [Examples with different DBs](#)
+* Database
+	* Sql Queries
+	* Transactions
+    * CRUD Operations
+    * Couchbase Ops
+  * Examples with different DBs
 
-* [External Communication](./README.md)
-	* [Redis](#)
-	* [Rabbitmq](#)
-    * [Kafka](#)
+* External Communication
+	* Redis
+	* Rabbitmq
+    * Kafka
 
-* [Build & Distribution](./README.md)
-	* [Docker Build](#)
-	* [Go Releaser](#)
-    * [Github Actions](#)
+* Build & Distribution
+	* Docker Build
+	* Go Releaser
+    * Github Actions
 
-* [Architecture - Overview](./README.md)
-	* [Abstraction / Decoupling](#)
-	* [Inversion Of Control](#)
-    * [Dependency Injection](#)
-    * [Composition Root](#)
-    * [Hexagonal Architecture](#)
-    * [DDD](#)
-    * [CQRS](#)
-    * [Event Sourcing](#)
-    * [Clean Code](#)
+* Architecture - Overview
+	* Abstraction / Decoupling
+	* Inversion Of Control
+    * Dependency Injection
+    * Composition Root
+    * Hexagonal Architecture
+    * DDD
+    * CQRS
+    * Event Sourcing
+    * Clean Code
 
-* [Kubernetes Extensibility](./README.md)
-	* [Accessing Kubernetes](#)
-	* [Admission Webhook Concept](#)
-    * [Operators](#)
+* Kubernetes Extensibility
+	* Accessing Kubernetes
+	* Admission Webhook Concept
+    * Operators
 
 ### Doesn't seem enough? Then create issues and start helping!!
 # Selected Golang Book List
