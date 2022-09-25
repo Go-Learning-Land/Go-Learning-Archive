@@ -33,7 +33,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 # Training Plan
 
-### (In Progress)
+### Base boilplate is taken from [here](https://github.com/GoTurkiye/training)
 
 * [Basics](./README.md) 
 	* [Variables](./README.md)
