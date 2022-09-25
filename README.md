@@ -9,7 +9,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 ### How to mint GLL NFTs?
 
-<div align="center"><p><img src="./img/mintGopher.jpg"  /></p></center></div>
+<div align="center"><p><img src="https://github.com/Go-Learning-Land/Go-Learning-Archive/blob/main/img/mintGopher.png"  /></p></center></div>
 
 1. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
 2. Go to [GLL website](https://golearningland.com) and click on mint button shown in image.
