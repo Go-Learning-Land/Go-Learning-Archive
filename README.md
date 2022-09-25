@@ -9,12 +9,12 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 ### How to mint GLL NFTs?
 
-<div align="center"><p><img src="https://github.com/Go-Learning-Land/.github/blob/main/img/claim.png"  /></p></center></div>
+<div align="center"><p><img src="./img/mintGopher.jpg"  /></p></center></div>
 
-1. Go to [Github](https://github.com/signup?source=login) and create an account.
-2. Go to [Go Learning Archive](https://github.com/Go-Learning-Land/Go-Learning-Archive) and star the repo. :stars:
-3. Go to [GLL website](https://golearningland.com/) and fill out the [github username](https://stackoverflow.com/questions/19077138/how-to-find-my-github-username-so-that-i-can-be-found-via-the-url#:~:text=The%20one%20displayed%20in%20the,URLs%20of%20your%20GitHub%20repositories.) and [metamask address.](https://metamask.io/faqs/) 
-4. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
+1. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
+2. Go to [GLL website](https://golearningland.com) and click on mint button shown in image.
+3. Use your Metamask wallet for pay gas fees. See more information on [Metamask website](https://metamask.io/)
+4. Wait for yout NFT to appear in wallet.
 
 
 # Folder Structures and Indexes
