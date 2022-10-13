@@ -5,7 +5,7 @@
 >**Although there are many good videos and tutorials, Good Gopher never underestimates the knowledge contained in books.**
 # Game Plan
 
-Our main plan is to collect **high-quality learning materials** in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for staring this repo. You can go and check for [GLL website](https://golearningland.com/). If you hate NFTs that is fine; we will give NFTs as a symbol of a community badge do not worry and do not hate us.
+Our main plan is to collect **high-quality learning materials** in the same place in a well-structured manner. All goodies for golang are welcome for PRs. Also, we will give you free NFTs for joining our community. You can go and check for [GLL website](https://golearningland.com/). If you hate NFTs that is fine; we will give NFTs as a symbol of a community badge do not worry and do not hate us.
 
 ### How to mint GLL NFTs?
 
