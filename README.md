@@ -11,10 +11,12 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 
 <div align="center"><p><img src="https://github.com/Go-Learning-Land/Go-Learning-Archive/blob/main/img/mintGopher.png"  /></p></center></div>
 
-1. Wait for minting state. Follow us on [Twitter](https://twitter.com/GoLearningLand)
-2. Go to [GLL website](https://golearningland.com) and click on mint button shown in image.
-3. Use your Metamask wallet for pay gas fees. See more information on [Metamask website](https://metamask.io/)
-4. Wait for yout NFT to appear in wallet.
+* [See SmartContract in Etherscan](https://etherscan.io/address/0x294e749fdf8be4513a7c56d38cab918b7409dc54#code)
+
+1. Go to [GLL website](https://golearningland.com) and click on mint button shown in image.
+2. Use your Metamask wallet for pay gas fees. See more information on [Metamask website](https://metamask.io/)
+3. Wait for yout NFT to appear in wallet.
+4. See in [Opensea](https://opensea.io/collection/go-learning-land)
 
 
 # Folder Structures and Indexes
