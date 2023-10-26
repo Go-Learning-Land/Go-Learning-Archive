@@ -24,7 +24,7 @@ Our main plan is to collect **high-quality learning materials** in the same plac
 * [Training](#training-plan) => This folder contains all materials ordered ways for learning golang.(Always open for PRs)
 * [Data Structures and Algorithms](./GolangDataStructuresAndAlgorithms/) => This folder contains the algorithms and data structures implemented in Go
 * [Basics](./GolangBasics/) => This folder contains basics tutorial for Golang
-* [Advanced](./GolangAdvanced/) =>This folder contains Advanced tutorial for Golang
+* [Advanced](./GolangAdvance/) =>This folder contains Advanced tutorial for Golang
 * [Clean Code](./GolangCleanCode/) => This folder contains Clean Code tips and tricks for Golang
 * [Concurrency](./GolangConcurrency/) => This folder contains Concurrency tutorial for Golang
 * [Testing](./GolangTesting/) => This folder contains Testing tutorial for Golang
